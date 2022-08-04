@@ -1,0 +1,174 @@
+.hpalways{
+    height: 80px;
+   margin-left: 100px;
+}
+
+.logo{
+    height: 250px;
+
+    
+}
+
+    .hp{
+        height: 80px;
+        display: inline-block;
+        position: relative;
+     display: inline-block;
+        top: 175px;
+        left: 50px;
+     
+    }
+
+
+    body{
+    margin:0;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+        color: black;
+}
+
+h1{
+    width: 10%;
+    margin: 0 auto 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#395B64;
+    
+}
+
+    h2{
+        font-weight: normal;
+        padding-bottom: 10px;
+        font-family :bold;
+       
+    }
+.top-container{
+    background-color:#E7F6F2;
+    border: 10px;
+    padding: 20px;
+
+}
+ .profile{
+    border-radius: 100%;
+ }
+
+
+.pro{
+    text-decoration: underline;
+}
+
+.computer{
+    height: 300px;
+    float: left;
+
+}
+
+.art{
+    height: 200px;
+    border-radius: 100%;
+    float: right;
+    margin-right: 100px;
+  
+    
+}
+
+.middle-section{
+    background-color: #E7F6F2;
+    padding-bottom: 250px;
+
+}
+.contact-me{
+    
+    margin: 40px auto 60px;
+    background-color:#ffffff ;
+    text-align: center;
+}
+
+.bottom-section{
+    background-color: #A5C9CA;
+    text-align: center;
+    padding: 50px 0 20px;
+}
+
+h3{
+    color: #2C3333;
+}
+
+p{
+    color: #395B64;
+    font-weight: normal;
+  
+}
+
+.skills{
+    background-color:#E7F6F2 ;
+        margin: 100px auto 100px auto;
+        text-align: left;
+        line-height: 2;
+    
+}
+.skill-row{
+    background-color:#E7F6F2;
+    text-align: left 700px;
+    padding-bottom: 100px;
+    line-height: 2;
+    
+}
+
+hr{
+    background-color: #E7F6F2;
+
+    border-style: none;
+    border-top-style: dotted;
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+ }
+
+ .btn {
+    background: #395B64;
+    background-image: -webkit-linear-gradient(top, #395B64, #395B64);
+    background-image: -moz-linear-gradient(top, #395B64, #395B64);
+    background-image: -ms-linear-gradient(top, #395B64, #395B64);
+    background-image: -o-linear-gradient(top, #395B64, #395B64);
+    background-image: linear-gradient(to bottom, #395B64, #395B64);
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: Arial;
+    color: #fafafa;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  
+  .btn:hover {
+    background: #A5C9CA;
+    background-image: -webkit-linear-gradient(top, #A5C9CA, #A5C9CA);
+    background-image: -moz-linear-gradient(top, #A5C9CA, #A5C9CA);
+    background-image: -ms-linear-gradient(top, #A5C9CA, #A5C9CA);
+    background-image: -o-linear-gradient(top, #A5C9CA, #A5C9CA);
+    background-image: linear-gradient(to bottom, #A5C9CA, #A5C9CA);
+    text-decoration: none;
+  }
+
+  a{
+    color: #2C3333;
+    margin: 10px 20px;
+    text-decoration: none;
+
+  }
+    a:hover{
+        color:#fafafa ;
+    }
+
+   .copyright{
+    color :#E7F6F2;
+    font-size: 0.75rem;
+    padding: 20px;
+
+   } 
+
+   .ski{
+    font-weight: bold;
+    font-size: 40px;
+   }
