@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anjitagargi
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning ML and Data Science 
+- 👀 I’m interested in Web Development, ui ux and graphic designing.
+
 
 
 
